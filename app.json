@@ -8,6 +8,7 @@
         "STRING_SESSION": {
             "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
             "required": true
+            "value": "1BJWap1sBuxkuXziJIZUP6MXYVySGmH9ITL-dCq5hnLHqqJsCI0WW9qGEHtktfQ58B2fvVHCLxi9nBEVc2C2PdQ2B65ZDoDWiYlTRV3cp9E7bqQgxmsRpGP6X3NoULqY4XbkaUDfWiZjU43zA2VbAnyOS1Sdl_7ycLmyXvVYlyeIHex28_S26rw9HDQOphzaqZXaJhQjtcidKS69K16P4mm-JBWLnAUbz9RuBsn7nFkwT_chv9v1vlhRHEMW_LkOqj9lsvI57-NbVStYWTYtsOiQsi4b5iLedUH3cBzX5lSFFEHMk8NX6_t3eNAoFEbxbLcPN_K7BCjXHpXHGIiuVoij-wrKgnCE="
         },
         "REPO_URL": {
             "description": "URL of the REPO, If You Have edited Repo.. Else Leave ! Don't Change",
@@ -16,51 +17,51 @@
         "OWNER_USERNAME": {
             "description": "your profile username without@!",
             "required": true,
-            "value": ""
+            "value": "Sexsuxassist"
         },
         "ASSISTANT_ID": {
             "description": "enter I'd of which uh have used to string (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": ""
+            "value": "5467311248"
         },
         "SUPPORT": {
             "description": "Fill there your group username else leave",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "sexxyneo"
         },
         "CHANNEL": {
             "description": "Fill there your Channel username else leave",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "ALL_DEFENCE_Exams"
         },
         "DATABASE_URL": {
             "description": "Fill database from elephantsql.com",
             "required": true,
-            "value": ""
+            "value": "postgres://jrycfssc:fEZMYWiOcO9vB8cIq1_Z97GhW3TiTppJ@tiny.db.elephantsql.com/jrycfssc"
         },
         "OWNER_ID": {
             "description": "Your Id, Go To @Zaid2_Robot Pm and Type /id..",
-            "value": ""
+            "value": "5467311248"
         },
         "DEV_USERS": {
             "description": "Dev Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": ""
+            "value": "5763920115"
         },
         "SUDO_USERS": {
             "description": "Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": ""
+            "value": "844126468"
         },
         "GBAN_LOGS": {
             "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-            "value": "-100"
+            "value": "-1001647004968"
         },
         "MESSAGE_DUMP": {
             "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-            "value": "-100"
+            "value": "-1001647004968"
         },
         "TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "5802795983:AAFtocF-utPkBvF2d6ttMoxR8cu-26ZBhzo"
         }
 
     }
