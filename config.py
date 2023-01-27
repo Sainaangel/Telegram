@@ -43,7 +43,7 @@ class Config(object):
     TIME_API_KEY = getenv("IYRY6U4HY05H", "https://timezonedb.com/api")
     WALL_API = getenv("WALL_API", "https://wall.alphacoders.com/api.php")
     spamwatch_api = getenv("spamwatch_api", "https://t.me/SpamWatchBot")
-    SPAMMERS = getenv("SPAMMERS", "")
+    SPAMMERS = getenv("SPAMMERS", "ONujsQkkKcYct~2hC4NrKkI9J0wo5ojaO95Y46y8uSgDhuo9Y7Ds4npbpl815F4H")
     LASTFM_API_KEY = getenv("LASTFM_API_KEY", "https://www.last.fm/api/account/create")
     CF_API_KEY = getenv("CF_API_KEY", "coffehouse.intellivoid.net")
     BOT_API_URL = getenv("https://api.telegram.org/bot5802795983:AAFtocF-utPkBvF2d6ttMoxR8cu-26ZBhzo", "https://api.telegram.org/bot")
